@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "mongodb": "^6.13.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jigneshsingh-growexxer/Bookmark-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jigneshsingh-growexxer/Bookmark-manager/issues"
+  },
+  "homepage": "https://github.com/Jigneshsingh-growexxer/Bookmark-manager#readme",
+  "description": ""
 }
